@@ -6,13 +6,7 @@
 <p align="center">
 <b>քʀօʄɨʟɛ</b>
 </p>
-<p align="center">
-<a href="https://t.me/cinemala_com1">
-  <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
-<a href="https://telegram.me/cinemala_com1">
-    &nbsp;<img src="https://img.shields.io/badge/𝙲𝙸𝙽𝙴𝙼𝙰𝙻𝙰.𝙲𝙾𝙼-𝙶𝚁𝙾𝚄𝙿-blue?style=flat-square&logo=telegram" width="200" height="30">&nbsp;
-  </a>
-</p>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devil-Botz&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devil-Botz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
